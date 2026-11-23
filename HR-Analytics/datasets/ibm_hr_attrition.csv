@@ -1473,3 +1473,4 @@ Age,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,Edu
 70,No,Travel_Rarely,800,Research & Development,5,3,B.Tech ,1,1472,3,Female,60,3,2,Head of staff,3,Single,70000.0,14000,2,Y,Yes,14,3,3,80,1,6,3,3,20,2,1,2,Jacob Thomas
 25,No,Travel_Rarely,800,Sales,5,3,Life Sciences,1,1473,3,Female,60,3,2,Research Scientist,3,Single,5500.0,14000,2,Y,Yes,14,3,3,80,1,6,3,3,3,2,1,2,Emily Martinez
 32,No,Travel_Rarely,800,Sales,5,3,Life Sciences,1,1474,3,Male,60,3,2,Sales Executive,3,Single,7500.0,14000,2,Y,No,15,3,3,80,1,8,2,3,5,3,1,3,Alexander Pierce
+30,No,Travel_Rarely,800,Research & Development,5,3,Life Sciences,1,1475,3,Male,60,3,2,Research Scientist,3,Single,5500.0,14000,2,Y,No,14,3,3,80,1,6,3,3,3,2,1,2,mbm
